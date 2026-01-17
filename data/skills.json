@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Python Data Analysis",
+    "description": "Ability to analyze data using Pandas and NumPy libraries in Python.",
+    "input_schema": {
+      "type": "object",
+      "properties": {
+        "df": {
+          "type": "string",
+          "description": "DataFrame in JSON format"
+        }
+      }
+    },
+    "tags": [
+      "python",
+      "pandas",
+      "data-science"
+    ],
+    "id": "f8df63d6-1d4b-4f77-9457-edeb85d8d163",
+    "created_at": ""
+  }
+]
